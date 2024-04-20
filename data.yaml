@@ -1,0 +1,18 @@
+names:
+- Hardhat
+- Mask
+- NO-Hardhat
+- NO-Mask
+- NO-Safety Vest
+- Person
+- Safety Cone
+- Safety Vest
+- machinery
+- vehicle
+  
+nc: 10
+
+path: 'D:\python\Opencv\PPE detection\data'
+test: images/test
+train: images/train
+val: images/valid
